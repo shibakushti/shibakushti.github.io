@@ -1,4 +1,4 @@
-# baseurl = "https://example.com/"
+baseurl = "https://shibakushti.github.io/"
 title = "Shiba Kushti"
 theme = "pulp"
 canonifyurls = true
